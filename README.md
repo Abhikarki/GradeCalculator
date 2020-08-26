@@ -1,3 +1,3 @@
 # GradeCalculator
 
-A basic 'average grade calculator' using swing GUI.
+A basic 'average grade calculator' using Java swing GUI.
